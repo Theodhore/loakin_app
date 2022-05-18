@@ -1,4 +1,5 @@
-# Loakin => Goes Intertional
+# Loakin => Goes International
+Since April 2022
 
 A new Flutter project.
 
